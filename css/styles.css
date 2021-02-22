@@ -1,0 +1,127 @@
+body {
+    font-family: Montserrat;
+  }
+  a {
+    cursor: pointer;
+  }
+  .navbar-brand {
+    margin-left: 9px;
+    font-size: 1.5rem;
+  }
+  h1{
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    
+  }
+
+  .icon {
+      color: #ef8172;
+  }
+
+.icon:hover {
+    color : #ff4c68;
+}
+  h3 {
+      font-family: "Montserrat-bold";
+  }
+
+  p {
+      font-size : 1.3rem;
+  }
+  .container-fluid {
+     padding : 3% 15%;
+  }
+  .prajjwal-img {
+      width: 300px;
+      height: 300px;
+      margin : 4px;
+  }
+  .download-button {
+       margin : 3px 3px;
+  }
+
+  .features {
+      padding : 10% 15%;
+  }
+  .codeforces-logo{
+    height : 50px;
+    width : 50px;
+    border-radius: 30px;
+}
+
+.codeforces-logo:hover {
+   height: 60px;
+   width : 60px;
+   border : 2px solid black;
+}
+
+
+
+.codechef-logo{
+    height : 50px;
+    width : 50px;
+    border-radius: 30px;
+}
+
+#project {
+    margin-left: 10px;
+}
+
+.codechef-logo:hover {
+  height : 60px;
+  width: 60px;
+  border : 2px solid black;
+}
+
+  #home {
+      padding : 10% 15%;
+  }
+
+  #home-heading {
+    text-align: center;
+    margin-bottom: 10px;
+  }
+  
+  #press {
+      background-color: #ef8172;
+      text-align: center;
+      padding-bottom : 3%;
+  }
+
+  @media (max-width : 1028px) {
+
+     .dog-img {
+        transform: rotate(0);
+     }
+     #title {
+        text-align: center;
+     }
+  }
+
+  #cta {
+    padding : 9% 15%; 
+    color : #fff;
+    text-align: center;
+  }
+
+.cta-heading {
+    font-family: "Montserrat-Black";
+    font-size : 3.5rem;
+    line-height: 1.5;
+}
+#footer {
+   text-align: center;
+   padding: 9% 15%;
+}
+.social-icon {
+   margin : 2px 3px;
+}
+
+.name {
+  font-size: 4rem;
+  margin-bottom: 4px;
+}
+
+.download-button {
+   margin-top : 10px;
+}
